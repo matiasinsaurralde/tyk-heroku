@@ -2,7 +2,7 @@
   "name": "Tyk API Gateway",
   "description": "A better way to manage your APIs",
   "logo": "https://tyk.io/wp-content/uploads/2016/02/Tyk_Icon_sets_Logo-1.png",
-  "repository": "https://github.com/TykTechnologies/tyk-heroku",
+  "repository": "https://github.com/matiasinsaurralde/tyk-heroku",
   "webite": "https://tyk.io",
   "success_url": "https://tyk.io/tyk-documentation/get-started/with-tyk-hybrid/tutorials/",
   "keywords": [
@@ -11,7 +11,7 @@
   ],
   "buildpacks": [
     {
-      "url": "https://github.com/TykTechnologies/tyk-hybrid-docker"
+      "url": "https://github.com/matiasinsaurralde/tyk-hybrid-docker"
     }
   ],
   "formation": {
